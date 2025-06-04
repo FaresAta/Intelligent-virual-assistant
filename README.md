@@ -4,7 +4,7 @@ UniGuide is a multilingual Intelligent Virtual Assistant designed to help studen
 
 ---
 
-![Screenshot 2025-06-04 165903](https://github.com/user-attachments/assets/37a7de0e-28b2-4be5-8fb0-24826ee379cb)
+![Screenshot 2025-06-04 165903](https://github.com/user-attachments/assets/cdb04566-70cd-4db2-b0ce-c99943ba15db)
 
 ---
 
@@ -30,7 +30,7 @@ UniGuide is a multilingual Intelligent Virtual Assistant designed to help studen
 
 ---
 
-![Screenshot 2025-06-04 170034](https://github.com/user-attachments/assets/98c48f0d-6fcf-4834-980e-5c6e8f995f4d)
+![Screenshot 2025-06-04 170034](https://github.com/user-attachments/assets/efc2f521-c412-475c-847e-862a14f33f27)
 
 ---
 
