@@ -1,0 +1,15 @@
+langchain
+openai
+datasets
+pinecone-client
+tiktoken
+langchain-core
+langsmith
+langchain-community
+gcsfs
+langchain_pinecone
+grpcio
+protobuf==4.21.6
+protoc-gen-openapiv2
+PyPDF2
+sentence_transformers
