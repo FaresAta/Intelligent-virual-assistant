@@ -1,4 +1,4 @@
-# 🧠 UniGuide: Intelligent Virtual Assistant for the University of Jordan
+Intelligent Virtual Assistant for the University of Jordan
 
 UniGuide is a multilingual Intelligent Virtual Assistant designed to help students, academic staff, and administrative departments at the University of Jordan access essential information quickly and easily. It enhances the university experience by providing 24/7 access to course schedules, campus navigation, academic resources, and more—all through a smart, conversational interface.
 
