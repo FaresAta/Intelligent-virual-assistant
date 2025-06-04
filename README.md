@@ -15,10 +15,7 @@ UniGuide is a multilingual Intelligent Virtual Assistant designed to help studen
 - 🌐 **Multilingual Support**: Interact in Arabic and English (more coming soon).
 - 📅 **Course Schedule Generator**: Create and manage your personalized schedule directly within the chat.
 - 🗺️ **Campus Navigation**: Integrated with Google Maps API for building directions and location help.
-- 🧾 **Admin Dashboard**: Secure portal to manage courses, student records, and chatbot content.
 - 🔐 **Secure Login**: Authentication and encrypted communication for user data protection.
-- 📈 **Usage Analytics**: Track most asked questions and system performance for continual improvement.
-- 🧠 **Real-Time Updates**: Connected to the university database for the latest academic info.
 
 ---
 
